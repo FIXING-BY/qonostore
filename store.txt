@@ -1,2 +1,2 @@
-
-https://raw.githubusercontent.com/FIXING-BY/qonostore/refs/heads/main/spotify.txt
+https://raw.githubusercontent.com/FIXING-BY/qonostore/refs/heads/main/youtube.txt : youtube : video izleme programı : google
+https://raw.githubusercontent.com/FIXING-BY/qonostore/refs/heads/main/spotify.txt : spotify : müzik dinlenme platform u : spotfylnc
